@@ -1,6 +1,6 @@
 h1 { 
         color: red;
-        background-color: rgba(38, 121, 215, 0.714);
+        background-color: rgba(134, 202, 89, 0.714);
         font-size: 3em;
     }
 
@@ -10,10 +10,20 @@ h1 {
     .item-lista {
         text-decoration: underline;
     }
-    #elemento-bomdia {
+    #elemento-boa {
         color: fuchsia
     }
 
+    li:first-child {
+        color: black;
+        transition: 0.3s
+    }
+
+    li:first-child:hover {
+        color: hotpink;
+        transition: o.3s;
+    
+    }
     div {
         background-color: goldenrod;
         width: 120px;
