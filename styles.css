@@ -1,0 +1,27 @@
+h1 { 
+        color: red;
+        background-color: rgba(38, 121, 215, 0.714);
+        font-size: 3em;
+    }
+
+    .titulo {
+        color: blueviolet;
+    }
+    .item-lista {
+        text-decoration: underline;
+    }
+    #elemento-bomdia {
+        color: fuchsia
+    }
+
+    div {
+        background-color: goldenrod;
+        width: 120px;
+        border-radius: 10px;
+        border: 2px solid brown;
+    }
+
+    body {
+        background-image: url('images.jpg');
+    }
+    
